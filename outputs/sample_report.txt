@@ -1,0 +1,3 @@
+Fruit Business Analytics System
+
+Analysis output will be added after the data pipeline is implemented.
